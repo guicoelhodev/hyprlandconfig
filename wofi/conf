@@ -1,0 +1,5 @@
+[settings]
+border-width=3
+border=rgba(0, 128, 0, 1)  # Verde
+font=Monospace 12
+
